@@ -4,4 +4,4 @@
 [Module 2: Responsive Design and CSS Frameworks](/sinyc/sessions/rwd)
 
 ##Barnard College
-[Pre-College Program 2016 - Intro to Web Development](/barnard/pcp-2016/home)
+[Pre-College Program 2016 - Intro to Web Development](/barnard/pcp-2016/index)
