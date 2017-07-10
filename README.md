@@ -1,17 +1,17 @@
-#si-web-design
+# si-web-design
 
 Teaching materials and resources for Startup Institute web design courses
 
 
-##Courses
+## Courses
 
-###[Responsive Web Design](http://farheen.website/rwd)
+### [Responsive Web Design](http://farheen.website/rwd)
 
 Learn about and experiment with responsive design and CSS Frameworks.
 
 
-##Resources
+## Resources
 
-###[Example Website]()
+### [Example Website]()
 
 An example of what you can (and hopefully will) make in this course.
