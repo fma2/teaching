@@ -16,7 +16,7 @@ Use the links below to explore materials and resources for the SINYC session on 
 
 - Flexible Layouts
   - [Starter code]()
-
+  - 
 
 
 ###Resources
