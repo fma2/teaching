@@ -1,3 +1,0 @@
-#all sessions
-
-[Module 2: Responsive Design and CSS Frameworks](/sessions/rwd)
