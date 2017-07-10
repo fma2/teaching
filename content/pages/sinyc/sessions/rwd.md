@@ -1,4 +1,4 @@
-#Responsive Web Design
+#Responsive Design
  
 
 Use the links below to navigate the materials and resources for the session on Responsive Design and CSS Frameworks.
