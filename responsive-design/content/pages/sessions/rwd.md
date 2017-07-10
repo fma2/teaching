@@ -1,7 +1,8 @@
 #Responsive Web Design
  
 
-Use the links below to navigate the materials and resources for this session.
+Use the links below to navigate the materials and resources for the session on Responsive Design and CSS Frameworks.
 
-- [Presentation](https://docs.google.com/presentation/d/11QOtCzWLvb-uxtvw44BxiqIZI9r3Nt86gEJrL6YVYB8/edit?usp=sharing)
-- Landing page [example](https://si-web-design.herokuapp.com/content/attachments/landing-page-template/index.html) and [source code](https://github.com/fma2/si-web-design/tree/master/responsive-design/content/attachments/landing-page-template)
+- <a href="https://docs.google.com/presentation/d/11QOtCzWLvb-uxtvw44BxiqIZI9r3Nt86gEJrL6YVYB8/edit?usp=sharing" target="_blank">Presentation</a>
+
+- Landing page <a href="https://si-web-design.herokuapp.com/content/attachments/landing-page-template/index.html" target="_blank">example</a> and <a href="https://github.com/fma2/si-web-design/tree/master/responsive-design/content/attachments/landing-page-template" target="_blank">source code</a>
