@@ -1,0 +1,144 @@
+#Home
+
+##Welcome to Introduction to Web Development!  
+Below is the curriculum for this introductory course in HTML/CSS for beginners in the Pre-College Program Liberal Arts Intensive at Barnard College. 
+
+Use the links below to jump to a section on this page.
+
+- [Course Description](#description)
+	- [Learning Outcomes](#outcomes)
+	- [Modules & Topics](#topics)
+	- [Course Grading](#grading)
+	- [Textbook](#textbook)
+- [Course Schedule](#schedule)
+	- [Mon July 11](#july11)
+	- [Tue July 12](#july12)
+	- [Wed July 13](#july13)
+	- [Thurs July 14](#july14)
+	- [Fri July 15](#july15)
+- [Contact information](#contact)
+- [Homework & Projects](#homework)
+- [Resources]()
+- [Course Evaluation]()
+
+<hr height="10px">
+
+##<a id="description">Course Description</a>
+
+A prominent individual has said that “software is eating the world.” From communication to education and healthcare, nearly every part of our lives is being touched by computer programs. It’s no surprise that coding is one of the most important and valuable skills for 21st century success.  This immersive course will introduce students to how the web works and how to build a website using HTML and CSS, the markup languages that are the building blocks of the web.  Students will learn by coding each day, and, **by the end of this hands-on course, you will understand the structural foundation and styling of websites and will have a strong foundation to continue to learn web development**.
+
+###<a id="outcomes">Learning Outcomes</a> 
+
+At the conclusion of the course, students should be able to:
+
+- Explain how the web works
+- Create the structure and style of a website using HTML and CSS
+- Design web pages using CSS for layout and CSS styles, internal and/or external style sheets.
+
+
+###<a id="topics">Modules & Topics</a>
+
+- [Module 0: Get ready to code!](/modules/0-get-ready-to-code)
+	- Setting up your environment
+- [Module 1: Introduction to HTML](/modules/1-introhtml)
+	- HTML document structure
+	- HTML elements, tags, and attributes
+- [Module 2: Introduction to CSS](/modules/2-introcss)
+	- CSS selectors
+	- CSS positioning
+- [Module 3: Putting it all together](/modules/3-putting-it-all-together)
+
+
+###<a id="grading">Course Grading</a>
+Grades will be based on class attendance each day; active participation in class, including preparation; various in-class coding challenges and a final project.
+
+|  | % of grade |
+| ------------- |-------------|
+|Attendance | 10% |
+|Homework | 10% |
+|Class Participation**| 50%|
+|Final Project| 30% |
+
+<br/>
+***"Class Participation" includes active participation in class discussion and all in-class challenges*
+
+###<a id="textbook">Textbook</a>
+
+Please invest in the following textbook, which will complement your learning both during our class and beyond:
+
+```Duckett, Jon (2011). HTML and CSS: Design and Build Websites. John Wiley and Sons, Inc.: Indianapolis. ```
+
+If you weren't able to get the book before class, there will be copies at Barnard’s local independent bookstore, BookCulture.
+<hr height="10px">
+
+##<a id="schedule">Course Schedule</a>
+
+####<a id="july11">Mon, July 11</a>
+
+| Module          | Topics, Challenges, and Homework     |
+| ------------- |-------------| --------------------|
+| Module 0: <br>[Get Ready to Code!](/modules/0-get-ready-to-code)  | 0.1. Welcome & Introductions <br> 0.2. Orientation: syllabus, tools, & setting up your environment <br> 0.3. Why Programming <br>0.4 How do web apps work?<br> 0.5. Explore HTML and CSS|
+| |<br>**Homework**| 
+| | <br>*Required* <br>Read Chapter 1, Chapter 2, Chapter 4, and Chapter 5 in 'HTML and CSS: Design and Build Websites'|
+|  |<br>*Optional* <br>Read Chapter 3,  Chapter 7, and Chapter 17 in 'HTML and CSS: Design and Build Websites'|
+
+####<a id="july12">Tues, July 12</a>
+
+| Module          | Topics, Challenges, and Homework     |
+| ------------- |-------------| --------------------|
+| Module 1: <br>[Introduction to HTML](/modules/1-introhtml)  | 1.1. HTML Document Structure <br> 1.2. Tags, elements, attributes<br>1.4. Tools of the Trade - The Inspector|
+||<br>**Homework**| 
+|  | <br>*Required*<br> Read Chapter 10, 11, 12, and 13 in 'HTML and CSS: Design and Build Websites'|
+| | <br>*Optional* <br>Read Chapter 14 and Chapter 15 of <br> 'HTML and CSS: Design and Build Websites'|
+
+
+####<a id="july13">Wed, July 13</a>
+
+| Module          | Topics, Challenges, and Homework     |
+| ------------- |-------------| --------------------|
+| Module 1: <br>[Introduction to HTML](/modules/1-introhtml)  | 1.3. HTML5 layout |
+| Module 2: <br>[Introduction to CSS](/modules/2-introcss)  | 2.1. CSS selectors <br>2.2. Color, text, images<br> 2.3. Boxes <br>2.4. Layout - positioning content|
+| |<br>**Homework**| 
+| |<br>*Required* <br> Read Chapter 7, Chapter 15, and Chapter 18 in <br> 'HTML and CSS: Design and Build Websites'|
+| |<br>*Optional* <br>Read Chapter 9 and Chapter 14 in <br> 'HTML and CSS: Design and Build Websites'|
+
+
+####<a id="july14">Thu, July 14</a>
+
+| Module          | Topics, Challenges, and Homework     |
+| ------------- |-------------| --------------------|
+| Module 2: <br>[Introduction to CSS](/modules/2-introcss)  | 2.4. Layout - positioning content	|
+|<br> | <br>|
+| Module 3: <br>[Putting it all together](/modules/3-putting-it-all-together)  | 3.1 Process and Design<br>3.2 Cumulative project|
+| |<br>**Homework**| 
+| | <br> *Required* <br>Complete your cumulative project|
+| | <br> *Optional* <br>Bring a treat to celebrate our last day of class|
+
+####<a id="july15">Fri, July 15</a>
+
+| Module          | Topics, Challenges, and Homework     |
+| ------------- |-------------| --------------------|
+| Module 3: <br>[Putting it all together](/modules/3-putting-it-all-together)  | 3.2 Cumulative project presentations<br> 3.3 How to continue coding<br> 3.4 Extend your learning!|
+
+<hr height="10px">
+
+##<a id="contact">Contact information</a>
+
+- All course material available at [http://pcp-intro-web-dev.herokuapp.com/](http://pcp-intro-web-dev.herokuapp.com/).
+- Reach me at barnardpcp@farheen.nyc.
+
+<hr height="10px">
+##<a id="resources">Resources</a>
+
+
+
+<hr height="10px">
+
+##<a id="#">Course Evaluation</a>
+
+<!-- Help me improve this course for future students!  Please complete the [Course Evaluation Survey](). -->
+
+
+
+
+ 
