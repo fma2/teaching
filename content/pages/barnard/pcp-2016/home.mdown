@@ -1,4 +1,4 @@
-#Home
+#barnard - pcp 2016
 
 ##Welcome to Introduction to Web Development!  
 Below is the curriculum for this introductory course in HTML/CSS for beginners in the Pre-College Program Liberal Arts Intensive at Barnard College. 
