@@ -9,8 +9,6 @@ Use the links below to explore materials and resources for the SINYC session on 
 
 - Presentation (to be linked post-session)
 
-###Design challenges
-
 - Flexible Layouts
 
 Make the grid below. Use <a href="https://drive.google.com/drive/folders/0B2oPzQ6clzPRRGlzd2FSUlA5Rm8?usp=sharing" target="_blank">this starter code</a>.
