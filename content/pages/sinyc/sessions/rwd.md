@@ -18,7 +18,13 @@ Make the grid below. Use <a href="https://drive.google.com/drive/folders/0B2oPzQ
 
 - Media Queries 
 
-[Starter code]()
+Write a media query to adapt [this website](https://alistapart.com/d/responsive-web-design/ex/ex-site-mini.html) for a widescreen display. The six images of the figures should be in the same row when the screen's resolution is more than 1300px.
+
+![figures in same row](https://alistapart.com/d/responsive-web-design/fig/f-img-widescreen.jpg)
+
+Write media queries to make the navigation more prominent in widescreen view--see image below as an example. When you're done, it should work like [this](https://alistapart.com/d/responsive-web-design/ex/ex-site-FINAL.html).
+
+![prominent nav](https://alistapart.com/d/responsive-web-design/fig/f-nav-narrow.jpg)
  
 
 ###Resources

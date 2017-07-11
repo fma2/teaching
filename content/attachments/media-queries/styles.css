@@ -187,11 +187,3 @@ li#f-winter {
 		margin-right: 0;
 	}
 }
-
-@media screen and (min-width: 1300px) {
-	.figure,
-	li#f-mycroft {
-		margin-right: 3.317535545023696682%;    /* 21px / 633px */
-		width: 13.902053712480252764%;          /* 88px / 633px */
-	}
-}
