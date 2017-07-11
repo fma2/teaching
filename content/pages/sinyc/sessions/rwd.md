@@ -3,7 +3,7 @@
 
 ##Responsive Design and CSS Frameworks
 
-Use the links below to explore materials and resources for the SINYC session on Responsive Design and CSS Frameworks.
+Use the links below to explore materials and resources for this SINYC session.
 
 ###Materials
 
