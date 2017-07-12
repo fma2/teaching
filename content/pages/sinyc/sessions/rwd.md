@@ -7,7 +7,7 @@ Use the links below to explore materials and resources for this SINYC session.
 
 ###Materials
 
-- Presentation (to be linked post-session)
+- <a href="https://docs.google.com/presentation/d/11QOtCzWLvb-uxtvw44BxiqIZI9r3Nt86gEJrL6YVYB8/edit?usp=sharing" target="_blank">Presentation</a>
 
 - Flexible Layouts
 
@@ -29,7 +29,7 @@ Write media queries to make the navigation more prominent in widescreen view--se
 ![prominent nav](https://alistapart.com/d/responsive-web-design/fig/f-nav-narrow.jpg)
  
 
-###Resources
+###Additional resources
 
 - Landing page <a href="http://design-dev-courses.herokuapp.com/content/attachments/landing-page-template/index.html" target="_blank">example</a> and <a href="https://github.com/fma2/teaching/tree/master/content/attachments/landing-page-template" target="_blank">source code</a>
 - Responsive Design
