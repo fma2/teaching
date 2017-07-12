@@ -31,6 +31,9 @@ Write media queries to make the navigation more prominent in widescreen view--se
 
 ###Additional resources
 
+- Repositories of design resources
+  - [Design Resources](http://designresources.party/)
+  - [Sans Francisco](http://www.sansfrancis.co/)
 - Landing page <a href="http://design-dev-courses.herokuapp.com/content/attachments/landing-page-template/index.html" target="_blank">example</a> and <a href="https://github.com/fma2/teaching/tree/master/content/attachments/landing-page-template" target="_blank">source code</a>
 - Responsive Design
   - [Responsive Web Design - Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/) 
