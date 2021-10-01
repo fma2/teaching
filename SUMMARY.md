@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Project pulled from Github integration](README.md)
+* [teaching design and dev](README.md)
 
